@@ -9,8 +9,15 @@
 body{
     background-color: black; /* Цвет фона веб-страницы */
 }
-
 @import 'blocks/menu';
+header{
+    position: relative;
+     nav{
+        position: absolute;
+        height: 90px;
+        width: 100%;
+    } 
+}
 @import 'blocks/information';
 @import 'blocks/button';
 @import 'blocks/hamburger';
