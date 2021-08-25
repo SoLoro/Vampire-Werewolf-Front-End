@@ -1,0 +1,20 @@
+@import 'libs/bootstrap-reboot.min';
+@import 'libs/bootstrap-grid.min';
+@import 'base/fonts';
+@import 'base/variables';
+
+*{
+    font-family: 'Rounded_Elegance', sans-serif;
+}
+body{
+    background-color: black; /* Цвет фона веб-страницы */
+}
+
+@import 'blocks/menu';
+@import 'blocks/information';
+@import 'blocks/button';
+@import 'blocks/hamburger';
+
+
+@import 'base/media';
+
