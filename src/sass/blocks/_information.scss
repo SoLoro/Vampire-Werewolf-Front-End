@@ -1,0 +1,35 @@
+.information{
+    min-height: 754px; //980
+    padding: 200px 0 20px 0; //340 0 210 0
+    background: url(../../img/people-min.jpg) center center/cover no-repeat;
+
+    &__title{
+        font-size: 62px;
+        font-weight: 700;
+        line-height: 1;
+        text-align: center;
+        color: $white-color;
+    }
+    &__subtitle{
+        margin: 0 auto;
+        width: 790px;
+        margin-top: 30px;
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 1;
+        text-align: center;
+        color: rgba(255, 255, 255, 0.8);
+    }
+    #title2{
+        display: none;
+    }
+    #subtitle2{
+        display: none;
+    }
+    &__button{
+        margin-top: 75px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
