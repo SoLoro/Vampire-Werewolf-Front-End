@@ -4,3 +4,9 @@ ____
 ```
     https://github.com/SoLoro/Vampire-Werewolf-Front-End.git
 ```
+____
+## Languages
+*HTML, CSS, SCSS, JS*
+____
+## Libraries
+*Bootstrap*
