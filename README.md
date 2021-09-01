@@ -8,5 +8,5 @@ ____
 ## Languages
 *HTML, CSS, SCSS, JS*
 ____
-## Libraries
+## Libraries & Frameworks
 *Bootstrap*
